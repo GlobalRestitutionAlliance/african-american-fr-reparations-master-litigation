@@ -1,0 +1,7 @@
+iso,country,source_type,title,url,access_class,status
+FR,France,PUBLIC_PORTAL,Archives Nationales d'Outre-Mer,http://www.archivesnationales.culture.gouv.fr/anom/fr/,PUBLIC_PORTAL,VERIFY_AND_DOWNLOAD
+FR,France,PUBLIC_PORTAL,Bibliothèque nationale de France,https://www.bnf.fr/,PUBLIC_PORTAL,VERIFY_AND_DOWNLOAD
+FR,France,PUBLIC_PORTAL,CNRS/Slave Voyages,https://www.slavevoyages.org/,PUBLIC_PORTAL,VERIFY_AND_DOWNLOAD
+FR,France,PUBLIC_PORTAL,UN OHCHR,https://www.ohchr.org/,PUBLIC_PORTAL,VERIFY_AND_DOWNLOAD
+FR,France,PUBLIC_PORTAL,Library of Congress,https://www.loc.gov/,PUBLIC_PORTAL,VERIFY_AND_DOWNLOAD
+FR,France,PUBLIC_PORTAL,UNESCO Slavery Routes,https://www.unesco.org/en/routes-enslaved-peoples,PUBLIC_PORTAL,VERIFY_AND_DOWNLOAD

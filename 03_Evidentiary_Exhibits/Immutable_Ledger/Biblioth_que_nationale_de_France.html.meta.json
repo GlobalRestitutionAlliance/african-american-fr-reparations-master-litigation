@@ -1,0 +1,11 @@
+{
+  "url": "https://www.bnf.fr/",
+  "final_url": "https://www.bnf.fr/fr",
+  "status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 255325,
+  "sha256": "ced92e47859d99ad81ba3a26b0b98c149852cce4597db9d5e0145615ea8f6a07",
+  "captured_at": "2026-11-22T06:46:45.484454Z",
+  "custodian": "OpenCode/harvest",
+  "provenance": "direct-http-capture"
+}
