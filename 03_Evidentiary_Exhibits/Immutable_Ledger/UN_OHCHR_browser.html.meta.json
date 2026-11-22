@@ -1,0 +1,15 @@
+{
+  "url": "https://www.ohchr.org/",
+  "final_url": "https://www.ohchr.org/en/ohchr_homepage",
+  "title": "UN OHCHR",
+  "fetched_at": "2026-11-22T21:07:54.388422Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "status_note": "Browser outerHTML capture; HTTP status not captured by eval fallback. Do not treat as authenticated or verified.",
+  "content_type": "text/html; browser-rendered",
+  "bytes": 60020,
+  "sha256": "1aad03b67566e68e5921b9160d890c8d846e994e01760ac7ff76c64e60560dd3",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "capture_method": "opencode-browse-extension+eval.outerHTML"
+}
